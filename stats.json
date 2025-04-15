@@ -1,0 +1,91 @@
+{
+  "joins": {
+    "120363398139579320@g.us": [
+      {
+        "userId": "212723100473@c.us",
+        "timestamp": 1744662026459
+      }
+    ]
+  },
+  "leaves": {},
+  "messages": {
+    "120363398918389662@g.us": {
+      "212715104027@c.us": {
+        "count": 14,
+        "lastMessage": 1744657853028
+      }
+    },
+    "120363419732549362@g.us": {
+      "212715104027@c.us": {
+        "count": 1,
+        "lastMessage": 1744599369138
+      }
+    },
+    "120363400736969181@g.us": {
+      "212723100473@c.us": {
+        "count": 10,
+        "lastMessage": 1744662923415
+      },
+      "212621957775@c.us": {
+        "count": 5,
+        "lastMessage": 1744662958815
+      },
+      "13412080148@c.us": {
+        "count": 1,
+        "lastMessage": 1744661380684
+      },
+      "212715104027@c.us": {
+        "count": 1,
+        "lastMessage": 1744662889496
+      }
+    },
+    "120363398139579320@g.us": {
+      "212723100473@c.us": {
+        "count": 18,
+        "lastMessage": 1744663102136
+      },
+      "212715104027@c.us": {
+        "count": 5,
+        "lastMessage": 1744663035256
+      }
+    }
+  },
+  "lectures": {
+    "212715104027@c.us": [
+      {
+        "type": "images",
+        "messageIds": [
+          "true_120363400468776166@g.us_3EB0003E96AE380FA22EF6_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB04156CA3910B93D0FF0_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB0697E4A9A1DED727305_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB0BD68630B8982E09D07_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB04CC9C52ADD3FD05940_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB061F345F633F373BB7F_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB030A9DF0DB3EB4F7B25_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB0B115FEE78AF36CEF23_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB0F7674C332D340D12B4_12365001520@c.us",
+          "true_120363400468776166@g.us_3EB06C343E561076452C33_12365001520@c.us"
+        ],
+        "name": "lecture_1_الفلسفة",
+        "subject": "الفلسفة",
+        "number": "غير محدد",
+        "group": "6",
+        "professor": "د",
+        "date": "━━━━━"
+      }
+    ],
+    "212621957775@c.us": [
+      {
+        "type": "pdf",
+        "messageId": "true_120363398139579320@g.us_3EB01F6C6402FA622BEFEA_12365001520@c.us",
+        "name": "__Systeme d exploitation Linux seance 2 et 3.pdf",
+        "filePath": "./lectures/__Systeme d exploitation Linux seance 2 et 3.pdf",
+        "subject": "غير محدد",
+        "number": "غير محدد",
+        "group": "غير محدد",
+        "professor": "غير محدد",
+        "date": "١٤‏/٤‏/٢٠٢٥"
+      }
+    ]
+  }
+}
